@@ -1,3 +1,3 @@
 # reverse_listview
 
-A simple reverse ListView.builder demonstration
+A simple reverse ListView.builder demonstration in Flutter
